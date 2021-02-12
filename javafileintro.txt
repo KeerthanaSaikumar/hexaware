@@ -4,5 +4,6 @@ Class Test
 	{
 	System.out.println("Hello everyone");
 	System.out.println("Bye everyone");
+	System.out.println("Bye");
 	}
 }
